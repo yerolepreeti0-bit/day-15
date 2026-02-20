@@ -1,0 +1,71 @@
+PROBABILITY EXERCISE:
+
+
+Rain and Traffic
+
+The probability that it rains on a given day is 30%.
+The probability of traffic jam given that it rains is 60%.
+The probability of traffic jam given that it does not rain is 20%.
+
+What is the probability that it rained given that there was a traffic jam?
+
+-----------------------------------------------------------------------------------
+
+Email Spam Detection
+
+70% of emails are not spam, 30% are spam.
+
+Spam emails contain the word “offer” 80% of the time
+
+Non-spam emails contain “offer” 10% of the time
+
+If an email contains the word “offer”, what is the probability that it is spam?
+
+
+-------------------------------------------------------------------------------------
+
+| Machine | % of Production | Defective Rate |
+| ------- | --------------- | -------------- |
+| M1      | 50%             | 2%             |
+| M2      | 30%             | 3%             |
+| M3      | 20%             | 5%             |
+
+
+A product is found defective.
+What is the probability that it was produced by Machine M3?
+
+
+------------------------------------------------------------------------------------------
+Student Performance Prediction
+
+Based on past data:
+
+40% of students study regularly
+
+60% study irregularly
+
+90% of regular students pass
+
+50% of irregular students pass
+
+A student has passed the exam.
+
+What is the probability that the student was a regular student?
+
+
+---------------------------------------------------------------------------------------------
+Hiring Decision
+
+60% of applicants are experienced, 40% are freshers.
+
+70% of experienced applicants clear the interview
+
+30% of freshers clear the interview
+
+An applicant cleared the interview.
+
+What is the probability the applicant was experienced?
+
+---------------------------------------------------------------------------------------------
+
+
